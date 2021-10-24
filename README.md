@@ -1,10 +1,9 @@
 # Inventory Management V1.0
 
-This Inventory application allows the user to store data, modify and display them
-conveniently with minimalist design. Two different ways data can be stored are named as parts
-and products. A part is an individual component that has two different types - in-house and
-outsourced, while the product can hold associated parts that can exist independent of current
-inventory of parts.
+  Inventory Management System Application implemented using Java language in object-oriented approach. This application allows the user to store data, modify and display them
+conveniently with minimalist design. <br />
+
+  Two different ways data can be stored are named as parts and products: A part is an individual component that has two different types - in-house and outsourced, while the product can hold associated parts that can exist independent of current inventory of parts.
 
 
 ## Screenshots
